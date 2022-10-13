@@ -9,4 +9,4 @@ The algorithm receives crop images as input and must be able to provide masks in
 
 More information available at: <a>https://competitions.codalab.org/competitions/27176</a>
 
-I faced this challenge by designing a U-Net style neural network, implemented in "u-net.ipynb". 
+I faced this challenge by designing a U-Net style neural network, implemented in "U-Net.ipynb". 
