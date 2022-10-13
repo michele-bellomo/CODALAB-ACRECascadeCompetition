@@ -8,3 +8,5 @@ The algorithm receives crop images as input and must be able to provide masks in
 <img src="images/CodaLab.png?raw=true" alt="drawing" width="900"/>
 
 More information available at: <a>https://competitions.codalab.org/competitions/27176</a>
+
+I faced this challenge by designing a U-Net style neural network, implemented in "u-net.ipynb". 
