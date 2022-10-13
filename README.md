@@ -6,4 +6,5 @@ The algorithm receives crop images as input and must be able to provide masks in
 <!--- ![Alt text](images/CodaLab.png?raw=true)   versione senza possibilità di cambiare dimensione immagini. se invece voglio farlo usare quella sotto-->
 <!--- <div style="text-align:center"><img src="images/CodaLab.png?raw=true" alt="drawing" width="900"/></div> con questa però non riesco a centrarlo-->
 <img src="images/CodaLab.png?raw=true" alt="drawing" width="900"/>
+
 More information available at: <a>https://competitions.codalab.org/competitions/27176</a>
